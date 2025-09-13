@@ -43,7 +43,6 @@
 <p align="left">
   <a href="mailto:alexa.kitina@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/milisentrum"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/alexandra-nikitina-ab9745384/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
