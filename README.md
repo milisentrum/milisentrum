@@ -38,6 +38,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Oracle Enterprise Manager](https://img.shields.io/badge/Oracle%20Enterprise%20Manager-F80000?style=flat&logo=oracle&logoColor=white)
+
 
 ### 📫 Contact with me
 <p align="left">
